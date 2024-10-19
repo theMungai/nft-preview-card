@@ -29,11 +29,10 @@ Users should be able to:
 ![](/images/Screenshot.png)
 
 
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/theMungai/nft-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [theMungai - Github](https://github.com/theMungai/nft-preview-card)
+- Live Site URL: [vercel.app/](https://nft-preview-card-steel-delta.vercel.app/)
 
 ## My process
 
